@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rito427
-- 👀 I’m interested in coding 
+- 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ritobratomaiti23bit043@skasc.ac.in
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
