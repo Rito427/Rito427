@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ritobratomaiti23bit043@skasc.ac.in
+- 📫 How to reach me ritobratomaiti123@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
